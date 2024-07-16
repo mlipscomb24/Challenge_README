@@ -40,3 +40,7 @@ If you have any questions, please feel free to contact me:
 
 - GitHub: [mlipscomb24](https://github.com/mlipscomb24)
 - Email: [mbennett.sa@outlook.com](mailto:mbennett.sa@outlook.com)
+
+- ## Video Walkthrough
+Here is a link to the video walkthrough of the project:
+- [Screencastify Video Walkthrough](https://app.screencastify.com/v3/watch/0paQ8QsVFa5PblI7To1w)
